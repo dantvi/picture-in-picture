@@ -1,6 +1,5 @@
-
 html {
-box-sizing: border-box;     /* Undviker att padding lägger på extra bredd och höjd hos elementen */
+box-sizing: border-box;
 }
 
 body {
